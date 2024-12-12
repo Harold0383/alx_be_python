@@ -5,7 +5,7 @@ seconds_per_minute = 60
 seconds_per_hour = 3600
 
 # Cminutes alculate total seconds
-seconds = hours * seconds_per_hour
+seconds = hours * 3600
 
 # Print the result
 print(f"{hours} hour(s) is {seconds} seconds.")
