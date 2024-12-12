@@ -1,10 +1,10 @@
 # Number of hours to convert
 hours = 2
-
-# Conversion factor (seconds in an hour)
+minutes_per_hour = 60
+seconds_per_minute = 60
 seconds_per_hour = 3600
 
-# Calculate total seconds
+# Cminutes alculate total seconds
 seconds = hours * seconds_per_hour
 
 # Print the result
